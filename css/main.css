@@ -1527,7 +1527,7 @@ header {
     }
 
     .intro-content .intro-position {
-        font-family: "lora-regular", serif;
+        font-family: poppins-light, serif;
         font-size: 1.7rem;
         line-height: 2.4rem;
         text-transform: uppercase;
