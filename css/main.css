@@ -374,7 +374,7 @@ td {
  * -------------------------------------------------------------------
  */
 button, .button {
-    margin-bottom: 1.2;
+    margin-bottom: 1.2px;
 }
 
 fieldset {
