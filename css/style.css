@@ -5,7 +5,7 @@ body {
   margin: 0 2rem;
 }
 
-#nescss>.container {
+#AndreGomes>.container {
   max-width: 980px;
   margin: 0 auto;
   margin-top: 150px;
@@ -357,7 +357,7 @@ img.lazy {
 }
 
 @media screen and (max-width: 580px) {
-  #nescss>.container {
+  #AndreGomes>.container {
     margin-top: 190px;
   }
 }

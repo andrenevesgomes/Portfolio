@@ -654,7 +654,7 @@ const contributors = [
 ];
 
 new Vue({
-  el: '#nescss',
+  el: '#AndreGomes',
   data() {
     return {
       collection: sampleCollection,
