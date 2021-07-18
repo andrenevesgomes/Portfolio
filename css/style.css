@@ -9,6 +9,7 @@ body {
   max-width: 980px;
   margin: 0 auto;
   margin-top: 150px;
+  overflow-x: hidden;
 }
 
 /* Header */
@@ -109,6 +110,10 @@ h2>a {
   color: #333;
   text-decoration: none;
   transition: all 0.3s ease;
+}
+
+.pl-head {
+  padding-left: 0.8rem;
 }
 
 .github-link.active {
